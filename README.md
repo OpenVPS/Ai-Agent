@@ -28,7 +28,7 @@ Latest release assets use these names:
 openvps-agent-linux-amd64
 openvps-agent-linux-arm64
 openvps-agent-linux-armv7
-SHA256SUMS 
+SHA256SUMS
 ```
 
 The installer requires a Linux host with systemd. On common distributions it can install missing `curl` and `python3` packages automatically through the detected package manager.
