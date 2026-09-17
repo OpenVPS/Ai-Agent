@@ -21,7 +21,7 @@ Example:
   curl -fsSL https://raw.githubusercontent.com/OpenVPS/Ai-Agent/main/install-agent.sh \
     | sudo bash -s -- \
       --token "YOUR_ENROLLMENT_TOKEN" \
-      --backend "wss://app.example.com/api/v1/agent/ws"
+      --backend "wss://app.openvps.dev/api/v1/agent/ws"
 
 The installer:
   - detects Linux and CPU architecture
